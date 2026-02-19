@@ -12,7 +12,10 @@
 
 ###
 
-![Pacman](https://raw.githubusercontent.com/dg1r3/dg1r3/output/pacman.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgTr3/dgTr3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgTr3/dgTr3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dgTr3/dgTr3/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
